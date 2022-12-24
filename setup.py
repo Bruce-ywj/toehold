@@ -15,7 +15,7 @@ setup(
     description="Predict & Optimization of Toehold switch.",
     long_description=readme,
     author="Weijie Yin",
-    url="https://github.com/ml4bio/RNA-FM",
+    url="https://github.com/Bruce-ywj/toehold",
     license="MIT",
     packages=["toehold",],
     zip_safe=True,
