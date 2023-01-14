@@ -1,6 +1,6 @@
 # Installation
 toehold requires the following packages to be installed  
-1. python >= 3.8.15
+1. python = 3.8
 ```
 pip install -r requirements.txt
 ```
